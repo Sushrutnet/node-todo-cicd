@@ -13,7 +13,7 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker copose up
+or Run by docker copose up -d
 
 test
 
